@@ -1,0 +1,12 @@
+.strikeds {
+  text-decoration: line-through;
+}
+
+.btn_info {
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  background-color: black;
+  margin-top: 0.5rem;
+}
